@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "harp": "^0.32.0",
+    "node": "^0.12.32",
+    "node-sass": "~7.0.1"
+  },
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
