@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "harp": "^0.32.0",
-    "node": "^0.12.32",
+    "node": "^12.16.3",
     "node-sass": "~7.0.1"
   },
     "scripts": {
